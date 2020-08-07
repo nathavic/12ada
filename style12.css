@@ -1,0 +1,13 @@
+.contenedor {
+    background-color: darkcyan;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+.contenido {
+    background-color: lightcoral;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
