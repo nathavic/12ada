@@ -7,3 +7,5 @@ Esto es una descripcion que agrega simplesmente para conocer.
 ## URL
 
 https://nathavic.github.io/ProyectoAda-Portfolio/index.html
+
+eso cambie directo del github 
